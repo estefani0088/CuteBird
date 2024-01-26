@@ -90,4 +90,3 @@ public class Bird extends Application
 // Created a scene of a cute bird,enjoying a nice day outside.
 // The slides guide me to create this project.
 // Java programming for the first time.
-
